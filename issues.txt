@@ -1,0 +1,5 @@
+LiveBetFragment issues
+
+1.App crashes in certain intervals during live tracking
+2.Total distance and remaining distance reset to 0 sometimes.
+3.Polylines are not continous.
