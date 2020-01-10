@@ -3,3 +3,6 @@ LiveBetFragment issues
 1.App crashes in certain intervals during live tracking
 2.Total distance and remaining distance reset to 0 sometimes.
 3.Polylines are not continous.
+4.Route do not draw on everytime.
+5.When the screen changes from the Live screen to another and comes back to Live, it refreshes the Live screen
+6. Option to enlarge and reduce the Map does not work.
